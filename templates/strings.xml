@@ -1,0 +1,136 @@
+<!-- L10N_LANG_INCLUDE=ar,fa,ko,ru,fr,pt,ja,tr,es,id,hi,ur,bn,my,uk -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="rate_title">Tap to rate us</string>
+    <string name="rate_desc">Your appreciation is our motivation.</string>
+    <string name="rate_title_dlg">We’re looking forward to your feedback</string>
+    <string name="rate_desc_dlg">Thank you for helping us improve.</string>
+    <string name="rate_cancel_text">Later</string>
+    <string name="rate_fb_text">Feedback</string>
+    <string name="rate_fb_title">Your feedback makes a difference</string>
+    <string name="rate_fb_desc">Let us know what went wrong?</string>
+    <string name="update_ok">Continue</string>
+    <string name="later">Later</string>
+    <string name="stop">Stop</string>
+    <string name="vpn_servers">VPN Servers</string>
+    <string name="smart_location">Smart Location</string>
+    <string name="network_notify_refresh">This server is full now, please refresh!</string>
+    <string name="install_app">Install</string>
+
+    <string name="disconnect_tip">Do you want to stop the connection?</string>
+    <string name="vpn_not_support">Your device do not support VPN service!</string>
+    <string name="fastest_server">Fastest server</string>
+    <string name="slide_to_connect">Slide to Connect</string>
+    <string name="bypass_filter">Bypass Filter</string>
+    <string name="connection_will_lost_soon_add_time_for_free_now">Connection will lost soon.\nAdd time for free now.</string>
+    <string name="add_duration">Add</string>
+    <string name="test">Test</string>
+    <string name="repair">Repair</string>
+    <string name="label_privacy_policy">Privacy Policy</string>
+
+    <string name="tips_no_network">Please check your network and retry later.</string>
+    <string name="connection_report">Connection Report</string>
+    <string name="text_duration">Duration</string>
+    <string name="text_data_used">Data Used</string>
+    <string name="menu_server_list">Server List</string>
+    <string name="menu_using_vpn_apps">Using VPN Apps</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_rate_us">Rate Us</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="check_for_updates">Check for updates</string>
+    <string name="text_copy">Copy</string>
+    <string name="text_copied">Copied</string>
+    <string name="already_latest_version">Already latest version!</string>
+    <string name="text_team">Team</string>
+    <string name="text_powered_by">Powered by</string>
+    <string name="version_placeholder">Version %s</string>
+    <string name="remain_duration">%dh %dm %ds</string>
+    <string name="title_get_duration">Lucky guy, your connection time has been increased.</string>
+    <string name="label_hour">HOUR</string>
+    <string name="lebel_mins">MINS</string>
+    <string name="got_it">Got it</string>
+    <string name="label_bypass">Using VPN APP</string>
+    <string name="split_tip">Please reconnect to VPN to apply changes</string>
+    <string name="bypass_desc">Select %d apps run through encrypted VPN connection.</string>
+    <string name="bypass_selecting_desc">Selecting apps…</string>
+    <string name="no_selected_bypass_title">You have not selected any app</string>
+    <string name="no_selected_bypass_msg">Select your frequently used apps to run through encrypted VPN connection.</string>
+    <string name="text_ok">OK</string>
+    <string name="authority_fail">SuperNet VPN can\'t be connected without authority!</string>
+
+    <string name="feedback_cannot_connect">Can\'t connect</string>
+    <string name="feedback_slow_speed">Slow speed</string>
+    <string name="feedback_auto_disconnect">Auto disconnect</string>
+    <string name="feedback_cannot_use">Can\'t use or unblock</string>
+    <string name="feedback_others">Others</string>
+    <string name="feedback_website">Problems with websites</string>
+    <string name="feedback_tip">--- Don\'t edit anything below ---</string>
+
+    <string name="invalid_email">Invalid email provided</string>
+    <string name="invalid_desc">Please describe the issue in detail. We need more information to check it.</string>
+    <string name="wrong_email_or_password">Wrong email or password</string>
+    <string name="create_email_tips">We will not share your information or send spam</string>
+    <string name="fd_desc_hits">Please describe your issue in detail.</string>
+    <string name="fd_desc_err">Please describe the issue in detail. We need more information to check it.</string>
+    <string name="fd_email_hits">Your email address</string>
+    <string name="fd_subject">Subject:%s</string>
+    <string name="fd_Description">Description</string>
+    <string name="fd_bottom_desc">**Your privacy is our top priority. These feedback do not contain any personally identifiable information.</string>
+    <string name="fd_invalid_email">Please enter a valid email</string>
+    <string name="fd_submit_suc">Feedback sent, please wait for our reply.</string>
+    <string name="fd_submit_fail">Failed. Please try again.</string>
+    <string name="fd_submit_title">Submit Feedback</string>
+    <string name="feedback_description">Let us know what went wrong?</string>
+    <string name="fb_text_submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="benefit1">100% Free and unlimited</string>
+    <string name="start_now">Start Now</string>
+    <string name="benefit2"><![CDATA[Fast & Stable connection]]></string>
+    <string name="benefit3">Unblock your favorite content</string>
+    <string name="benefit4">Download content for free</string>
+
+    <string name="privacy_agreement">By tapping "Start Now", you agree to our\nPrivacy Policy</string>
+    <string name="keyword_privacy_agreement_privacy_policy">Privacy Policy</string>
+    <string name="block_dialog_title">Note</string>
+    <string name="quit_app">Quit App</string>
+    <string name="exit_tip_connected">You will quit APP with VPN service enabled.</string>
+    <string name="quit">Quit</string>
+
+    <!-- icon1 对应随机选一 -->
+    <string name="connecting1_1">SuperNet is Finding the fastest server…</string>
+    <string name="connecting1_2">SuperNet is doing his best…</string>
+    <!-- icon2 对应随机选一 -->
+    <string name="connecting2_1">SuperNet is Boosting…</string>
+    <string name="connecting2_2">SuperNet is retrying to find the best server…</string>
+    <!-- icon3 对应随机选一 -->
+    <string name="connecting3_1">Something went wrong. Let me try again!</string>
+    <string name="connecting3_2">SuperNet is already running as hard as he can…</string>
+
+    <string name="msg_connection_failed">Something went wrong. SuperNet needs to start again</string>
+    <string name="msg_connection_succeed">Connected successfully</string>
+
+    <string name="splash_tip_1">Preparing server list……</string>
+    <string name="splash_tip_2">Detecting server signal……</string>
+    <string name="splash_tip_3">Detecting server speed……</string>
+
+    <string name="connecting_nokill_msg">SuperNet is finding the fastest server…</string>
+
+    <string name="email_feedback_cannot_connect">Can\'t connect</string>
+    <string name="email_feedback_slow_speed">Slow speed</string>
+    <string name="email_feedback_auto_disconnect">Auto disconnect</string>
+    <string name="email_feedback_cannot_use">Can\'t use or unblock</string>
+    <string name="email_feedback_others">Others</string>
+    <string name="email_feedback_tip">--- Don\'t edit anything below ---</string>
+    <string name="server_refresh">No available server, please refresh.</string>
+    <string name="refresh">Refresh</string>
+    <string name="vpn_testing">VPN Testing</string>
+    <string name="finish">Finish</string>
+    <string name="test_ip">IP</string>
+    <string name="test_net_status">Network Status</string>
+    <string name="test_latency">Latency</string>
+    <string name="test_loss">Packet Loss</string>
+    <string name="test_dns_leak">DNS Leak Test</string>
+    <string name="test_firewall">Bypassing Firewall</string>
+    <string name="test_system_dns">System DNS Connectivity</string>
+    <string name="test_city"> - %s</string>
+
+</resources>
