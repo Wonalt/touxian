@@ -1,0 +1,126 @@
+<!-- L10N_LANG_INCLUDE=ar,fa,ko,ru,fr,pt,ja,tr,es,id,hi,ur,bn,my,uk -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="rate_title">Toca aquí para calificarnos</string>
+    <string name="rate_desc">Tu reconocimiento es nuestra motivación.</string>
+    <string name="rate_title_dlg">Esperamos recibir tus comentarios</string>
+    <string name="rate_desc_dlg">Gracias por ayudarnos a mejorar.</string>
+    <string name="rate_cancel_text">Después</string>
+    <string name="rate_fb_text">Comentarios</string>
+    <string name="rate_fb_title">¡Tu aporte hará la diferencia!</string>
+    <string name="rate_fb_desc">Proporciónanos más datos del problema</string>
+    <string name="update_ok">Continuar</string>
+    <string name="later">Después</string>
+    <string name="stop">Detener</string>
+    <string name="vpn_servers">Servidores VPN</string>
+    <string name="smart_location">Ubicación inteligente</string>
+    <string name="network_notify_refresh">Este servidor está ocupado, ¡refresca la lista!</string>
+    <string name="install_app">Instalar</string>
+
+    <string name="disconnect_tip">¿Deseas detener la conexión?</string>
+    <string name="vpn_not_support">¡Tu dispositivo no es compatible con el servicio VPN!</string>
+    <string name="fastest_server">Servidor más rápido</string>
+    <string name="slide_to_connect">Desliza para conectarte</string>
+    <string name="bypass_filter">Filtro de derivación</string>
+    <string name="connection_will_lost_soon_add_time_for_free_now">Pronto se perderá la conexión.\nAgregar tiempo gratis ahora</string>
+    <string name="add_duration">Agregar</string>
+    <string name="test">Prueba</string>
+    <string name="repair">Reparar</string>
+    <string name="label_privacy_policy">Política de privacidad</string>
+
+    <string name="tips_no_network">Verifica tu conexión e intenta más tarde.</string>
+    <string name="connection_report">Reporte de conexión</string>
+    <string name="text_duration">Duración</string>
+    <string name="text_data_used">Uso de datos</string>
+    <string name="menu_server_list">Lista de servidores</string>
+    <string name="menu_using_vpn_apps">Uso de Apps VPN</string>
+    <string name="menu_feedback">Comentarios</string>
+    <string name="menu_rate_us">Califícanos</string>
+    <string name="menu_about_us">Nosotros</string>
+    <string name="check_for_updates">Revisa las actualizaciones</string>
+    <string name="text_copy">Copiar</string>
+    <string name="text_copied">Copiado</string>
+    <string name="already_latest_version">¡Versión más reciente!</string>
+    <string name="text_team">Equipo</string>
+    <string name="text_powered_by">Creado por</string>
+    <string name="version_placeholder">Versión %s</string>
+    <string name="remain_duration">%dh %dm %ds</string>
+    <string name="title_get_duration">¡Felicidades!, se incrementó el tiempo de conexión.</string>
+    <string name="label_hour">HORA</string>
+    <string name="lebel_mins">MINUTOS</string>
+    <string name="got_it">Entendido</string>
+    <string name="label_bypass">Uso de App VPN</string>
+    <string name="split_tip">Conéctate nuevamente a la VPN para aplicar los cambios</string>
+    <string name="bypass_desc">Seleccionar %d apps para ser encriptadas a través de la conexión VPN.</string>
+    <string name="bypass_selecting_desc">Selecting apps…</string>
+    <string name="no_selected_bypass_title">No has seleccionado ninguna app</string>
+    <string name="no_selected_bypass_msg">Selecciona las apps más usadas para encriptarlas a través de la conexión VPN.</string>
+    <string name="text_ok">OK</string>
+    <string name="authority_fail">¡SuperNet VPN no puede conectarse sin autorización!</string>
+
+    <string name="feedback_cannot_connect">No se puede conectar</string>
+    <string name="feedback_slow_speed">Baja velocidad</string>
+    <string name="feedback_auto_disconnect">Auto desconexión</string>
+    <string name="feedback_cannot_use">No se puede usar o desbloquear</string>
+    <string name="feedback_others">Otros</string>
+    <string name="feedback_website">Problemas con sitios web</string>
+    <string name="feedback_tip">--- No edite nada debajo ---</string>
+
+    <string name="invalid_email">Correo inválido</string>
+    <string name="invalid_desc">Describe el problema en detalle. Necesitamos más información para verificarlo</string>
+    <string name="wrong_email_or_password">Correo o contraseña incorrecta</string>
+    <string name="create_email_tips">No compartiremos sus datos o enviaremos spam</string>
+    <string name="fd_desc_hits">Describe el problema en detalle.</string>
+    <string name="fd_desc_err">Describe el problema en detalle. Necesitamos más datos para verificarlo.</string>
+    <string name="fd_email_hits">Tu correo electrónico</string>
+    <string name="fd_subject">Asunto:%s</string>
+    <string name="fd_Description">Descripción</string>
+    <string name="fd_bottom_desc">**Tu privacidad es nuestra máxima prioridad. Estos comentarios no contienen ningún dato personal.</string>
+    <string name="fd_invalid_email">Ingresa un correo válido</string>
+    <string name="fd_submit_suc">Comentario enviado, espera nuestra respuesta.</string>
+    <string name="fd_submit_fail">Ocurrió un error. Inténtalo de nuevo.</string>
+    <string name="fd_submit_title">Enviar comentarios</string>
+    <string name="feedback_description">Proporciónanos los detalles del problema.</string>
+    <string name="fb_text_submit">Enviar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="benefit1">100% Gratis e ilimitado</string>
+    <string name="start_now">Empezar ahora</string>
+    <string name="benefit2"><![CDATA[Conexión rápida y estable]]></string>
+    <string name="benefit3">Desbloquea tu contenido favorito</string>
+    <string name="benefit4">Descarga contenido gratis</string>
+
+    <string name="privacy_agreement">Al tocar \"Empezar ahora\", estás de acuerdo con nuestra\nPolítica de privacidad</string>
+    <string name="keyword_privacy_agreement_privacy_policy">Política de privacidad</string>
+    <string name="block_dialog_title">Nota</string>
+    <string name="quit_app">Salir de la app</string>
+    <string name="exit_tip_connected">Saldrás de la app con el servicio VPN habilitado</string>
+    <string name="quit">Salir</string>
+
+    <!-- icon1 对应随机选一 -->
+    <string name="connecting1_1">SuperNet está buscando el servidor más rápido…</string>
+    <string name="connecting1_2">SuperNet está haciendo todo lo posible…</string>
+    <!-- icon2 对应随机选一 -->
+    <string name="connecting2_1">SuperNet está acelerándose…</string>
+    <string name="connecting2_2">SuperNet está buscando otra vez el servidor más rápido…</string>
+    <!-- icon3 对应随机选一 -->
+    <string name="connecting3_1">Algo salió mal. ¡Intentaremos de nuevo!</string>
+    <string name="connecting3_2">SuperNet está acelerándose tanto como puede…</string>
+
+    <string name="msg_connection_failed">Algo salió mal. SuperNet necesita reiniciar</string>
+    <string name="msg_connection_succeed">Conexión exitosa</string>
+
+    <string name="splash_tip_1">Preparando la lista de servidores…</string>
+    <string name="splash_tip_2">Detectando la señal del servidor…</string>
+    <string name="splash_tip_3">Detectando la velocidad del servidor……</string>
+
+    <string name="connecting_nokill_msg">SuperNet is finding the fastest server…</string>
+
+    <string name="email_feedback_cannot_connect">No se puede conectar</string>
+    <string name="email_feedback_slow_speed">Baja velocidad</string>
+    <string name="email_feedback_auto_disconnect">Auto disconnect</string>
+    <string name="email_feedback_cannot_use">No se puede usar o desbloquear</string>
+    <string name="email_feedback_others">Otros</string>
+    <string name="email_feedback_tip">--- No edite nada debajo ---</string>
+    <string name="server_refresh">Servidor no disponible, refresque la lista.</string>
+    <string name="refresh">Refresh</string>
+</resources>
+
